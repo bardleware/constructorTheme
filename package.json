@@ -1,0 +1,22 @@
+{
+    "name": "theme-constructor",
+    "displayName": "Orange Teal Theme",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "bardleware",
+    "engines": {
+        "vscode": "^1.10.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Constructor",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Constructor.tmTheme"
+            }
+        ]
+    }
+}
